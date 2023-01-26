@@ -1,4 +1,5 @@
 //Variable declaration section
+
 addTask = document.getElementById('add-task');
 inputTask = document.getElementById('input-task');
 taskContainer = document.getElementById('task-container');
